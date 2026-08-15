@@ -51,6 +51,17 @@ elif percentage>=35 and percentage<=39:
     print("Grade D")
 else:
     print("Grade F")    
+
+
+
+#program to display the name and age of the person
+
+a=input("Enter your name:")
+b=int(input("Enter your birth of year:"))
+age=2026-b    
+print("name:",a)
+print("age:",age)
+    
     
 
 
