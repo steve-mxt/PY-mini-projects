@@ -65,5 +65,20 @@ print("age:",age)
     
 
 
+#program to display the name and age of the person
 
+'''a=input("Enter your name:")
+b=int(input("Enter your birth of year:"))
+age=2026-b    
+print("name:",a)
+print("age:",age)'''
+
+
+#
+a=int(input("enter your age"))
+if (a>=18):
+    print("you can drive")
+else:
+    print("you cannot drive")   
+ 
     
